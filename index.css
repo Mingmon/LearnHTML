@@ -1,0 +1,25 @@
+.red{
+    color: red;
+}
+.pink{
+    color: pink;
+}
+.pinky{
+    color: rgb(219, 157, 157);
+}
+body{
+    background: yellow;
+}
+h1{
+    text-decoration: underline;
+}
+.img-size{
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+}
+
