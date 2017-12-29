@@ -1,0 +1,39 @@
+.navbar-black{
+    background-color: transparent;
+    margin-bottom: 0;
+}
+.nav-r{
+    float: right;
+}
+.nav-brand{
+    color: rgb(185, 133, 209) !important;
+}
+.ac a{
+    color:rgb(253, 110, 120) !important;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.text{
+    color: black !important;
+}
+.text:hover{
+    color:rgb(185, 133, 209)!important;
+    background-color: transparent !important;
+}
+.pd{
+    padding: 40px 40px 0 800px;
+}
+.mg{
+    margin: 0 100px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.font h3,p{
+    font-family: 'Kanit', sans-serif;
+}
+.pic{
+    background-image: url("../img/000024.JPG");
+    background-position: center;
+    height: 400px;
+}
