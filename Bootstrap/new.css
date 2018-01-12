@@ -1,0 +1,55 @@
+html{
+   font-family: 'Kanit', sans-serif;
+}
+.navbar-right{
+    float: right;
+}
+.navbar-bg{
+    background-color: #CF7880;
+    margin-bottom: 0;
+}
+.text{
+    color: #E08B84 !important;
+}
+.text :hover{
+    color: #FABCC0 !important;
+    background-color: transparent !important;   
+}
+.box{
+    padding: 25px;
+}
+
+.jumbotron-bg{
+    background-color: #F9D5D3;
+}
+.pink-text{
+    color: #ECA4A6 !important;
+}
+.darkpink-text{
+    color: #CF7880 !important;
+}
+
+img{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 350px;
+    height: 350px;
+}
+.content{
+    word-wrap:break-word;
+    line-height: 1.5;
+}
+
+
+.first{
+    max-width: 800px;
+    text-align: center;
+    padding-top: 64px!important;
+    padding-bottom: 64px!important;
+    margin: auto;
+    padding: 0.01em 16px;
+}
+.text-justify{
+    text-align: justify!important;
+}
